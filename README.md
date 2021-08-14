@@ -1,1 +1,1 @@
-![Picture1] (https://newcastlebeach.org/images/12-png.png)
+![Picture1](https://newcastlebeach.org/images/12-png.png)
